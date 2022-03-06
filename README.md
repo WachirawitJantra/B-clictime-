@@ -1,4 +1,4 @@
-#
+#https://github.com/WachirawitJantra
 import pyautogui
 import pyautogui
 import time
