@@ -102,7 +102,7 @@ time.sleep(600)
    # ล่งลาย
 def linenotify(message):
   url = 'https://notify-api.line.me/api/notify'
-  token = 'WNVXAUH3qVyjmjBNs3qRMYAV5HTiroWVHZn53QZEO07' # กระเป๋า
+  token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx' # กระเป๋า
   img = {'imageFile': open('3.PNG','rb')} #ชื่อไฟล์
   data = {'message': message}
   headers = {'Authorization':'Bearer ' + token}
